@@ -1,0 +1,15 @@
+﻿  widestring.cpp
+widestring.cpp(340): warning C4018: >=: несоответствие типов со знаком и без знака
+widestring.cpp(344): warning C4018: <: несоответствие типов со знаком и без знака
+widestring.cpp(482): warning C4018: <=: несоответствие типов со знаком и без знака
+widestring.cpp(565): warning C4018: <: несоответствие типов со знаком и без знака
+widestring.cpp(569): warning C4018: <: несоответствие типов со знаком и без знака
+widestring.cpp(592): warning C4018: >=: несоответствие типов со знаком и без знака
+widestring.cpp(729): warning C4267: аргумент: преобразование из "size_t" в "WideString::Index"; возможна потеря данных
+  Создание кода
+  2 of 177 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  myvec.vcxproj -> C:\Users\maksi\documents\visual studio 2015\Projects\myvec\Release\myvec.exe
+  myvec.vcxproj -> C:\Users\maksi\documents\visual studio 2015\Projects\myvec\Release\myvec.pdb (Full PDB)

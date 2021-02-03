@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\maksi\documents\visual studio 2015\projects\myvec\debug\myvec.exe".
+  widestring.cpp
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(340): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(344): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(482): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(565): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(569): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(592): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\widestring.cpp(729): warning C4267: аргумент: преобразование из "size_t" в "WideString::Index"; возможна потеря данных
+  dynarray.cpp
+  basicstring.cpp
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(341): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(345): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(472): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(555): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(559): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(582): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(719): warning C4267: аргумент: преобразование из "size_t" в "BasicString::Index"; возможна потеря данных
+  Создание кода...
+c:\users\maksi\documents\visual studio 2015\projects\myvec\myvec\basicstring.cpp(393): warning C4717: BasicString::insert: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\maksi\documents\visual studio 2015\Projects\myvec\Debug\myvec.exe"
